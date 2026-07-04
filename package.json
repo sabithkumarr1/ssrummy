@@ -1,0 +1,12 @@
+{
+  "name": "ssrummy",
+  "version": "2.0.0",
+  "description": "Sathya's Rummy - 101 Pool multiplayer with virtual coins",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
